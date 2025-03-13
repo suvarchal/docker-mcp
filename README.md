@@ -2,6 +2,8 @@
 
 A Model Context Protocol (MCP) server for Docker operations. This server allows Claude and other AI assistants to interact with Docker through the MCP protocol.
 
+**Note:** This MCP server works with standard Docker CLI commands and does not currently support Docker Compose operations, other MCP servers with docker-compose didn't work reliably with cline yet.
+
 ## Features
 
 - List Docker containers
