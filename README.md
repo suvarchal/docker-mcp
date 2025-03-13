@@ -168,6 +168,16 @@ Once configured, you can ask Claude to perform Docker operations:
 - "Stop the nginx container"
 - "Remove all stopped containers"
 
+## MCP Marketplace
+
+This Docker MCP server is available on the Cline MCP Marketplace, making it easy for users to discover and install with one click.
+
+The logo for the MCP Marketplace submission is located in the `assets/logo.png` file.
+
+For more information about the MCP Marketplace, visit:
+- [MCP Marketplace Repository](https://github.com/cline/mcp-marketplace)
+- [Introducing the MCP Marketplace](https://cline.bot/blog/introducing-the-mcp-marketplace-clines-new-app-store)
+
 ## License
 
 MIT
