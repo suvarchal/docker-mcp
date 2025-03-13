@@ -105,6 +105,8 @@ Edit `~/.config/Code/User/globalStorage/saoudrizwan.claude-dev/settings/cline_mc
 }
 ```
 
+**Note:** After configuring the Docker MCP server in VS Code, you may need to restart VS Code for the changes to take effect in Cline. If you encounter issues with the Docker MCP server not being recognized or working properly in Cline, try restarting VS Code.
+
 ## Available Tools
 
 ### list_containers
